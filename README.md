@@ -1,5 +1,5 @@
 # Real-time-Driver-Drowsiness-Detection
-When the driver is yawning or drowsing gives alert alarm. So that the driver is alerted before going asleep and not causing any other accidents, So that the driver can take rest.
+When the driver is yawning or drowsing gives alert alarm. So that the driver is alerted before going asleep and not causing any other accidents, So that the driver is not in danger or can be avoided causing further accidents.
 
 Road accidents are very common on Indian roads. A majority of these road accidents are mainly caused by distractions to the driver, daydreaming, reckless driving, drowsiness and over tiredness of the driver. 
 
